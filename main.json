@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "card": [
+        {
+          "image": "http://target",
+          "level": "Pemula",
+          "link": "http://target",
+          "title": "N5 - Kelas Dasar"
+        },
+        {
+          "image": "http://target",
+          "level": "Menengah",
+          "link": "http://target",
+          "title": "N4 - Kelas Dasar"
+        },
+        {
+          "image": "http://target",
+          "level": "Mahir",
+          "link": "http://target",
+          "title": "N3 - Kelas Lanjutan"
+        },
+        {
+          "image": "http://target",
+          "level": "Mahir",
+          "link": "http://target",
+          "title": "N2 - Kelas Lanjutan"
+        }
+      ],
+      "description": "Belajar bahasa jepang dengan mudah",
+      "name": "Kelas Bahasa Jepang"
+    },
+    {
+      "card": [
+        {
+          "image": "http://target",
+          "level": "Pemula",
+          "link": "http://target",
+          "title": "Apa itu Ojigi?"
+        },
+        {
+          "image": "http://target",
+          "level": "Pemula",
+          "link": "http://target",
+          "title": "Budaya menyapa"
+        },
+        {
+          "image": "http://target",
+          "level": "level",
+          "link": "http://target",
+          "title": "judul"
+        },
+        {
+          "image": "http://target",
+          "level": "level",
+          "link": "http://target",
+          "title": "judul"
+        }
+      ],
+      "description": "Pelajari budaya jepang dari orang jepang langsung",
+      "name": "Kelas Budaya Jepang"
+    },
+    {
+      "card": [
+        {
+          "image": "http://target",
+          "level": "Pemula",
+          "link": "http://target",
+          "title": "Keperawatan"
+        },
+        {
+          "image": "http://target",
+          "level": "Pemula",
+          "link": "http://target",
+          "title": "Pengolah Makanan"
+        },
+        {
+          "image": "http://target",
+          "level": "Pemula",
+          "link": "http://target",
+          "title": "Jasa Makanan"
+        },
+        {
+          "image": "http://target",
+          "level": "level",
+          "link": "http://target",
+          "title": "judul"
+        }
+      ],
+      "description": "Specified Skilled Worker",
+      "name": "Kelas SSW"
+    }
+  ],
+  "product": "lpkHarehareEndpoint",
+  "releaseDate": "2014-06-25T00:00:00.000Z",
+  "version": 3.1
+}
