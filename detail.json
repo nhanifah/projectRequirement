@@ -1,0 +1,42 @@
+{
+  "data": {
+    "lesson": {
+      "history": {
+        "last": "uid"
+      },
+      "list": [
+        {
+          "title": "judul",
+          "description": "deskripsi",
+          "image": "http://link",
+          "id": "lesson_uid",
+          "accessHistory": true
+        }
+      ]
+    },
+    "modul": {
+      "list": [
+        {
+          "title": "judul",
+          "description": "deskripsi",
+          "image": "http://link",
+          "url": "urlToFile"
+        }
+      ]
+    },
+    "training": {
+      "id": "train_uid",
+      "history": [
+        {
+          "point": 100,
+          "totalQuestion": 12,
+          "CorrectAnswer": 8,
+          "time": 123456789
+        }
+      ]
+    }
+  },
+  "product": "home",
+  "releaseDate": "2014-06-25T00:00:00.000Z",
+  "version": 3.1
+}
