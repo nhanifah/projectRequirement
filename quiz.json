@@ -1,0 +1,19 @@
+{
+  "data": {
+    "id": "quiz_uid",
+    "timelimit": 123456789,
+    "question": [
+      {
+        "image": "http://link",
+        "quest": "hewan asal australia yang sering melompat",
+        "answer": {
+          "answ_id_a": "jawaban a",
+          "answ_id_b": "jawaban b"
+        }
+      }
+    ]
+  },
+  "product": "quiz",
+  "releaseDate": "2014-06-25T00:00:00.000Z",
+  "version": 3.1
+}
