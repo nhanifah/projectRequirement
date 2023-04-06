@@ -1,42 +1,33 @@
 {
   "data": {
-    "lesson": {
-      "history": {
-        "last": "uid"
-      },
-      "video_list": [
-        {
-          "title": "judul",
-          "description": "deskripsi",
-          "image": "http://link",
-          "id": "lesson_uid",
-          "accessHistory": true
-        }
-      ]
-    },
-    "modul": {
-      "list": [
-        {
-          "title": "judul",
-          "description": "deskripsi",
-          "image": "http://link",
-          "url": "urlToFile"
-        }
-      ]
-    },
-    "training": {
-      "id": "train_uid",
-      "history": [
-        {
-          "point": 100,
-          "totalQuestion": 12,
-          "CorrectAnswer": 8,
-          "time": 123456789
-        }
-      ]
+    "lessons": [
+      {
+        "lesson_id": "00feb75f-d4b7-11ed-9ec1-0ae0afa41145",
+        "name": "helo papa mama",
+        "description": "helo mamaza",
+        "type": "video",
+        "link": "uwiiii",
+        "image": "piupiu",
+        "class_id": "96dd864b-d4b6-11ed-9ec1-0ae0afa41145"
+      }
+    ],
+    "assets": [
+      {
+        "lesson_id": "f3b863de-d4b6-11ed-9ec1-0ae0afa41145",
+        "name": "helo papa",
+        "description": "helo mamaz",
+        "type": "document",
+        "link": "uwiiii",
+        "image": "piupiu",
+        "class_id": "96dd864b-d4b6-11ed-9ec1-0ae0afa41145"
+      }
+    ],
+    "history": {
+      "last": "uid",
+      "next": "uid"
     }
   },
   "product": "detail",
-  "releaseDate": "2014-06-25T00:00:00.000Z",
-  "version": 3.1
+  "releaseDate": "2023-04-06T20:13:59+00:00",
+  "version": "1.0.0"
 }
